@@ -1,0 +1,5 @@
+{"case_id":"DEMO-01","question":"What evidence should be kept when an employee leaves and access is revoked?","intended_source_id":"SYN-IS-01","adjudication_status":"SYNTHETIC_DEMO_NOT_GOLD"}
+{"case_id":"DEMO-02","question":"What human approval is needed before deployment of a high-impact AI model?","intended_source_id":"SYN-AI-02","adjudication_status":"SYNTHETIC_DEMO_NOT_GOLD"}
+{"case_id":"DEMO-03","question":"Does one missing account reconciliation automatically establish an adverse opinion?","intended_source_id":"SYN-ICFR-03","adjudication_status":"SYNTHETIC_DEMO_NOT_GOLD"}
+{"case_id":"DEMO-04","question":"Which elements must be identified before making an ESG assurance conclusion?","intended_source_id":"SYN-ESG-04","adjudication_status":"SYNTHETIC_DEMO_NOT_GOLD"}
+{"case_id":"DEMO-05","question":"Does disclosure of a critical audit matter by itself prove fraud?","intended_source_id":"SYN-CAM-05","adjudication_status":"SYNTHETIC_DEMO_NOT_GOLD"}
