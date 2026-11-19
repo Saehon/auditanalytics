@@ -17,3 +17,5 @@ jobs:
         with:
           python-version: '3.11'
       - run: python -m unittest discover -s goldenaudit-rag/tests -v
+      - run: python -m py_compile goldenaudit-rag/huggingface/app.py
+      - run: python -c "import json,pathlib; p=pathlib.Path('goldenaudit-rag/kaggle/goldenaudit_rag_synthetic_demo.ipynb'); d=json.loads(p.read_text()); assert d['nbformat']==4 and len(d['cells'])>=2"
