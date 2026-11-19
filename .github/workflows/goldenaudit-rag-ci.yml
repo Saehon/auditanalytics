@@ -3,11 +3,11 @@ on:
   push:
     paths:
       - 'goldenaudit-rag/**'
-      - '.github/workflows/goldenaudit-ci.yml'
+      - '.github/workflows/goldenaudit-rag-ci.yml'
   pull_request:
     paths:
       - 'goldenaudit-rag/**'
-      - '.github/workflows/goldenaudit-ci.yml'
+      - '.github/workflows/goldenaudit-rag-ci.yml'
 jobs:
   test:
     runs-on: ubuntu-latest
