@@ -1,0 +1,29 @@
+{
+  "version": "demo-not-cuad",
+  "data": [
+    {
+      "title": "SYNTHETIC CLOUD LICENCE AGREEMENT - NOT REAL",
+      "paragraphs": [
+        {
+          "context": "Customer will subscribe to hosted software platform for monthly fees. Services delivered over time. Separate training fee."
+        }
+      ]
+    },
+    {
+      "title": "SYNTHETIC EMPLOYMENT AGREEMENT - NOT REAL",
+      "paragraphs": [
+        {
+          "context": "Employee shall receive stock options. Employer software maintenance is not a customer service."
+        }
+      ]
+    },
+    {
+      "title": "SYNTHETIC SERVICE AGREEMENT - NOT REAL",
+      "paragraphs": [
+        {
+          "context": "Services include implementation and managed hosting with monthly recurring fees."
+        }
+      ]
+    }
+  ]
+}
