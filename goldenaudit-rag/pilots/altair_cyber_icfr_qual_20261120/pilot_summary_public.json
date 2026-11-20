@@ -1,0 +1,33 @@
+{
+  "case_id": "ALTR-SEC-CORRESP-2023-0711",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1701732/000119312523185004/filename1.htm",
+  "archival_document_count": 1,
+  "preliminary_meaning_units": 12,
+  "theme_counts": {
+    "THEME1_TRANSLATION": 3,
+    "THEME2_CONTROL_EVIDENCE": 4,
+    "THEME3_ACCOUNTABILITY": 3,
+    "THEME4_VALUE_PASSPORT": 2
+  },
+  "source_status": "public issuer correspondence and SEC question; assertions NOT independently audited",
+  "policy_pack_version": "0.3",
+  "framework_entries": 12,
+  "illustrative_objectives_catalogue": 17,
+  "method_as_of_2026": {
+    "selected": 7,
+    "not_tested_missing_data": 7,
+    "exception_signals": 0,
+    "professional_blockers": 8,
+    "release": "BLOCKED",
+    "sox_scope": "MANUAL_APPLICABILITY_REVIEW"
+  },
+  "historical_as_of_2023": {
+    "selected": 0,
+    "iiacyber": "NOT_YET_EFFECTIVE"
+  },
+  "total_local_software_tests_passed": 53,
+  "qualitative_validity": "single coder AI-assisted preliminary, NOT independently adjudicated",
+  "model_experiments": "A0–A4 NOT RUN",
+  "enterprise_system_test": "NOT RUN",
+  "source_rights": "public source link; no private user Drive contents published"
+}
