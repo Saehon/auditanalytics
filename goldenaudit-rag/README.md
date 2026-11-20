@@ -30,3 +30,7 @@ Google Drive private project folder: https://drive.google.com/drive/folders/1UQw
 Research framework: https://docs.google.com/document/d/1XKQ8zV18zUTA0uhy1ne8Lyaznrs6aQ-9b3sPtXLBaa4/edit
 
 Deployment templates: [Hugging Face](huggingface/README.md) and [Kaggle](kaggle/README.md). These are **templates only**; no dataset/model/Space/Notebook has been uploaded to those platforms.
+
+## Current research proposal
+
+- [GoldenAudit-RAG Full Research Proposal V2.0 (20 November 2026)](proposals/GoldenAudit-RAG_Research_Proposal_V2_2026-11-20.md) — hypotheses, theoretical model, blinded expert protocol, matched A0–A3 experiment, statistical analysis, 12-month milestones and verified bibliography.
