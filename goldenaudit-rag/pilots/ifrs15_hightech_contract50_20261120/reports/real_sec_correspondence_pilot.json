@@ -1,0 +1,72 @@
+{
+  "run_date": "2026-11-20",
+  "case_design": "documentary qualitative feasibility test",
+  "source_document_count": 3,
+  "source_document_type": "SEC CORRESP (not contracts)",
+  "real_contracts_parsed": 0,
+  "target_real_contracts": 50,
+  "coding_units_provisional": 10,
+  "units_by_case": {
+    "LSC": 4,
+    "CLD": 4,
+    "NATI": 2
+  },
+  "codes": {
+    "IFRS15_PO_DISTINCTNESS": 1,
+    "IFRS15_LICENCE_SERVICES": 1,
+    "IFRS15_PRINCIPAL_AGENT": 1,
+    "IFRS15_TIMING": 1,
+    "ASC606_PO_DISTINCTNESS": 1,
+    "ASC606_LICENCE_SERVICES": 1,
+    "ASC606_TIMING": 1,
+    "ICFR_DISCLOSURE_GOVERNANCE": 1,
+    "ASC606_ALLOCATION_SSP": 2
+  },
+  "evidence_types": {
+    "STAFF_QUERY_AND_COMPANY_RESPONSE": 3,
+    "STAFF_QUERY": 4,
+    "MANAGEMENT_ASSERTION": 3
+  },
+  "ICFR_operating_effectiveness_conclusions": 0,
+  "CAM_text_matched": 0,
+  "five_capital_assessment": "HYPOTHESES_ONLY",
+  "human_second_coder": "NOT_PERFORMED",
+  "LLM_agent_A0_A4": "NOT_RUN",
+  "source_scope_warning": "Evidence supports regulatory discourse only; no revenue, IFRS or US GAAP compliance opinion from this corpus.",
+  "full_text_keyword_counts_by_case": {
+    "LSC": {
+      "retrieved_text_characters": 22237,
+      "literal_IFRS15": 11,
+      "literal_ASC606": 0,
+      "literal_performance_obligation": 8,
+      "literal_standalone_selling_price": 0,
+      "literal_principal_or_agent": 5,
+      "literal_ICFR": 0,
+      "literal_critical_audit_matter": 0,
+      "literal_contract": 4
+    },
+    "CLD": {
+      "retrieved_text_characters": 84041,
+      "literal_IFRS15": 0,
+      "literal_ASC606": 2,
+      "literal_performance_obligation": 10,
+      "literal_standalone_selling_price": 10,
+      "literal_principal_or_agent": 0,
+      "literal_ICFR": 3,
+      "literal_critical_audit_matter": 0,
+      "literal_contract": 4
+    },
+    "NATI": {
+      "retrieved_text_characters": 21675,
+      "literal_IFRS15": 0,
+      "literal_ASC606": 4,
+      "literal_performance_obligation": 1,
+      "literal_standalone_selling_price": 6,
+      "literal_principal_or_agent": 0,
+      "literal_ICFR": 0,
+      "literal_critical_audit_matter": 0,
+      "literal_contract": 1
+    }
+  },
+  "counts_method": "Case-insensitive Python/JS-compatible regex applied to full text returned by authenticated Google Drive fetch; exact regex definitions in docs/METHODS.md"
+}
