@@ -148,13 +148,13 @@ Es, S., James, J., Espinosa Anke, L., & Schockaert, S. (2024). RAGAs: Automated 
 
 Saad-Falcon, J., Khattab, O., Potts, C., & Zaharia, M. (2024). ARES: An automated evaluation framework for retrieval-augmented generation systems. NAACL 2024, 338–354. https://aclanthology.org/2024.naacl-long.20/
 
-Tihanyi, N., et al. (2024). CyberMetric: A benchmark dataset based on retrieval-augmented generation for evaluating LLMs in cybersecurity knowledge. IEEE CSR 2024. https://arxiv.org/abs/2402.07688 (cross-check final IEEE bibliographic fields before submission).
+Tihanyi, N., Ferrag, M. A., Jain, R., Bisztray, T., & Debbah, M. (2024). CyberMetric: A benchmark dataset based on retrieval-augmented generation for evaluating LLMs in cybersecurity knowledge. IEEE International Conference on Cyber Security and Resilience (CSR). https://arxiv.org/abs/2402.07688
 
-Gokhan, T., et al. (2024). RIRAG: Regulatory information retrieval and answer generation. arXiv:2409.05677. https://arxiv.org/abs/2409.05677 (final author list and downstream peer-reviewed version to be checked before submission).
+Gokhan, T., Wang, K., Gurevych, I., & Briscoe, T. (2024). RIRAG: Regulatory information retrieval and answer generation. arXiv:2409.05677. https://arxiv.org/abs/2409.05677
 
-ISACA. (2026). CISA exam content outline (competency information only; not AI training material). https://www.isaca.org/credentialing/cisa/cisa-exam-content-outline
+ISACA. (n.d.). CISA exam content outline (competency information only; not AI training material). https://www.isaca.org/credentialing/cisa/cisa-exam-content-outline
 
-ISACA. (2026). Advanced in AI Audit (AAIA) exam content outline (competency information only; not AI training material). https://www.isaca.org/credentialing/aaia/aaia-exam-content-outline
+ISACA. (n.d.). Advanced in AI Audit (AAIA) exam content outline (competency information only; not AI training material). https://www.isaca.org/credentialing/aaia/aaia-exam-content-outline
 
 ISACA. (2026, June 22). Terms of use, sections 2.6 and related content restrictions. https://www.isaca.org/terms-of-use
 
