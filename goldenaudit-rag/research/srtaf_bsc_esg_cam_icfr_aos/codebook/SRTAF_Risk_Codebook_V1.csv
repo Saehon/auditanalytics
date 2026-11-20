@@ -1,0 +1,9 @@
+code,risk_definition,bsc_perspective,esg_connection,icfr_investigation,qualitative_guardrail
+R1,Forecasting and planning,Financial,Transition scenarios,Estimate-review evidence,No inferring severity from CAM wording
+R2,Cost and resource allocation,Financial; Internal processes,Carbon/resource cost,Cost allocation lineage,Costing references alone do not establish BSC usage
+R3,Performance and incentives,Financial; Customer,ESG incentives,Variable consideration review,Bonus target is not necessarily an accounting error
+R4,Valuation and investment appraisal,Financial,Climate impairment risk,Valuation model controls,CAM does not entail ICFR weakness
+R5,Information systems and control,Internal processes,Cybersecurity; ESG data integrity,ITGC and interface evidence,Disclosure is not operating effectiveness
+R6,Estimation and judgment,Financial; Learning,Carbon and assurance estimates,Assumption approvals,Use applicable IFRS 15 or ASC 606 separately
+R7,Operations and supply chain,Internal processes; Customer,Supplier resilience and labor,Contract-performance and inventory controls,Do not assume all ESG risk is ICFR
+R8,Accountability and evidence,All four,Sustainability assurance credibility,Source provenance and authorization,No automatically authorized opinion
