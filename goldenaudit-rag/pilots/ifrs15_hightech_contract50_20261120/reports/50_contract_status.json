@@ -1,0 +1,8 @@
+{
+  "target": 50,
+  "real_contract_contexts_obtained": 0,
+  "contract_level_qualitative_tests": 0,
+  "status": "BLOCKED_NO_SOURCE_BYTES",
+  "open_source_found": "CUAD v1 510, original GitHub research code; dataset not available in local runtime",
+  "next_step": "Provide rights-cleared CUADv1.json to execute src/contract_first_ifrs15.py; verify sample members as high-tech customer contracts and original SEC contracts before CAM/ICFR joins"
+}
